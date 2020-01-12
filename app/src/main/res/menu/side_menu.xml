@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home" />
+    <item android:title="Who are we?" />
+    <item android:title="Our Ecotours" />
+    <item android:title="Our Projects" />
+    <item android:title="How to help?" />
+    <item android:title="Our Shops" />
+    <item android:title="Contact us" />
+    <item android:title="Follow us" />
+    <item android:title="Terms and conditions" />
+    <item android:title="Settings" />
+
+</menu>
+

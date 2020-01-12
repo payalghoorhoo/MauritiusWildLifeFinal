@@ -1,0 +1,375 @@
+<resources>
+    <string name="app_name">Mauritius Wild Life</string>
+    <string name="who_nare_we">WHO ARE WE?</string>
+    <string name="discover">DISCOVER</string>
+    <string name="who_are_we_dashboard">Who_are_we_dashboard</string>
+    <string name="our_necotour">OUR ECOTOUR</string>
+    <string name="our_nprojects">OUR PROJECTS</string>
+    <string name="logo">logo</string>
+    <string name="how_to_nhelp">HOW TO HELP?</string>
+    <string name="our_nshops">OUR SHOPS</string>
+    <string name="contact_nus">CONTACT US</string>
+    <string name="follow_nus">FOLLOW US</string>
+    <string name="terms_and_nconditions">TERMS AND\nCONDITIONS</string>
+    <string name="settings">SETTINGS</string>
+    <string name="flora">FLORA</string>
+    <string name="mauritius_rare_plant">Mauritius Rare Plant</string>
+    <string name="rodrigue_rare_plant">Rodrigue Rare Plant</string>
+    <string name="fauna">FAUNA</string>
+    <string name="echo_parakeet">Echo Parakeet</string>
+    <string name="kestrel">Kestrel</string>
+    <string name="tortoise_rewilding">Tortoise Rewilding</string>
+    <string name="ornate_day_gecko">Ornate Day Gecko</string>
+    <string name="telfair_skink">Telfair Skink</string>
+    <string name="islets">ISLETS</string>
+    <string name="ile_cocos">Ile Cocos</string>
+    <string name="round_island">Round Island</string>
+    <string name="iaa">Ile Aux Aigrettes</string>
+    <string name="x">X</string>
+    <string name="pink_pigeon">Pink Pigeon</string>
+    <string name="back_button">back_button</string>
+    <string name="how_you_can_help">How you can help</string>
+
+
+    <string name="what_we_do">
+        The Mauritian Wildlife Foundation is the only non-governmental organisation (NGO) in Mauritius to be exclusively concerned with the conservation of the endangered endemic plants and animals of Mauritius.
+
+        \n\n
+
+        <b>Our achievements</b> \n
+
+        The work carried out in Mauritius is one of the world\'s most successful conservation stories.
+        This is due to MWF\'s restoration work started in the 1970s, which has succeeded in rescuing the Mauritius Kestrel, Echo Parakeet and Pink Pigeon, from the brink of extinction.
+        We also develop protocols for the rescue of native plant species and we work in Rodrigues restoring the flora and fauna, replanting the native forest.
+        MWF has been actively involved with island restoration in particular on Ile aux Aigrettes and Round Island, both of which contain highly threatened biodiversity of global importance.
+        These conservation efforts will benefit future generations of Mauritians.
+        MWF promotes local capacity building and provides local employment through its activities.
+        MWF continues to flourish as a strong, vibrant and innovative organisation.
+    </string>
+
+    <string name="what_is_our_mission">
+        <b>The Mauritian Wildlife Foundation (MWF) is the only non-governmental organization (NGO) in Mauritius to be exclusively concerned with the conservation and preservation of the nation\'s endangered plant and animal species.</b>
+
+        \n\n
+
+        Our goals: \n
+
+        - To save threatened Mauritian species through the restoration of entire ecosystems. \n
+
+        - To seek new information through field research, data management, captive studies and scientific collaboration for direct application to restoration methods and management. \n
+
+        - To share knowledge gained through restoration programmes with fellow Mauritian and international conservationists. \n
+
+        - To share the joys and benefits of native wilderness and wildlife with the Mauritian people. \n
+
+        - To secure the future of Mauritian species through income generation and sound management of human, fiscal and capital resources. \n
+
+        \n\n
+
+        Our hands-on conservation projects are carried out in Mauritius including the offshore islets and Rodrigues.
+        We work closely with local and international partners, with the long-term aim of recreating lost ecosystems by saving some of our rarest species from extinction and restoring the native forest.
+        Another important part of our work is to raise awareness about conservation issues through our education programme.
+    </string>
+
+    <string name="contact_us_mauritius">
+        <b>MAURITIUS</b>
+
+        \n\n
+
+        For all enquiries, suggestions or complaints concerning the Mauritian Wildlife Foundation, please email to: executive@mauritian-wildlife.org
+        Or send in writing addressed to: \n\n
+        <i>
+            Executive Director, \n
+            Mauritian Wildlife Foundation, \n
+            Grannum Road, Vacoas 73418 \n
+        </i>
+
+        \n
+
+        <b>Tel:</b> (230) 697-6097 \n
+        <b>Fax:</b> (230) 697-6512 \n
+        <b>Email:</b> executive@mauritian-wildlife.org
+    </string>
+
+    <string name="contact_us_rodrigues">
+        <b>RODRIGUES</b>
+
+        \n\n
+
+        Mauritian Wildlife Foundation \n
+        Grande Montagne
+
+        \n\n
+
+        <b>Tel:</b> (230) 831-4862 \n
+        <b>Fax:</b> (230) 831-4862 \n
+        <b>Email:</b> grandemont@mauritian-wildlife.org
+    </string>
+
+    <string name="how_to_help_text">
+        MWF NEF/CSR Reg. Nr 1070
+        CORPORATE SOCIAL RESPONSIBILITY
+
+        \n\n
+
+        Since 2009, the Government of Mauritius has established a policy with the overall objective of mandating registered companies to pay 2% of their book profit towards programmes that contribute to the social and environmental development of the country. Commonly known as Corporate Social Responsibility (CSR), it is the concept whereby companies act to balance their own economic growth with the sustainable social and environmental development of their areas of operation. A company performing highly in CSR is one that goes beyond compliance with the legal framework to actively pursue positive impacts on local communities and its environmental footprint. In 2015, the existing guidelines have been abolished with the simplification of the procedures. There are no more priority areas and companies have more freedom to decide as long as they meet the new Income Tax amendment act of 2015 summarised as follows:
+
+        \n\n
+
+        Every company shall in every year set up a CSR Fund equivalent to 2 per cent of its chargeable income of the preceding year to implement a CSR Programme in accordance with its own CSR framework. A CSR programme should have as objects the alleviation of poverty, the relief of sickness or disability, the advancement of education of vulnerable persons or the promotion of any other public object beneficial to the Mauritian community; Companies now need to submit to the MRA as an annex to their return of income a statement showing the amount of CSR spent and the details of CSR projects implemented by the company during the income year.
+
+        \n\n
+
+        All our programs qualify for CSR credential number: 501 Protection and preservation of the environment : Biodiversity.
+        For further information please contact our CSR team:  Email: fundraising@mauritian-wildlife.org or call (230) 697 6117
+        Also see the website: www.nef.mu
+    </string>
+
+    <string name="ile_aux_aigrettes">
+                Ile aux Aigrettes is a small (27 ha) island situated in the Mahebourg Bay, about 850 m off the south-east coast of Mauritius. Unlike the mainland which is of volcanic origin, Ile aux Aigrettes is made up of coralline limestone. It is home to the last remnants of dry coastal forest, once found around most of Mauritius.
+        \n\n
+        Like the mainland, Ile aux Aigrettes was affected by tree logging and land clearance, and the introduction of exotic animal and plant species almost destroyed the native fauna and flora. In 1965 the island was declared a nature reserve and our intense conservation efforts have resulted in the restoration of the forest and reintroduction of rare species that had long since disappeared from the island.
+         \n\n
+        Visitors to the island are encouraged and can take part in one of our tour options:
+        \n 1. Our standard ecotour provides a guided trail around the sites of interest on the island, lasting approx. 1.5 to 2 hours, with a short boat trip to and from the island (see full details below).
+        \n 2. Our tailor-made tours can be booked in advance to cater for any special interests that you might have, such as photography or birdwatching, for example. Please contact us to discuss your particular needs and interests.
+        \n 3. Primary and secondary school pupils can visit the island under our specially designed Learning with Nature programme, click here for more information.
+    </string>
+
+    <string name="conservationist_for_a_day">
+        Our exclusive Conservationist for a day experience on Ile aux Aigrettes Nature Reserve gives you a once in a lifetime opportunity to see what it is like to work to preserve our natural heritage.
+        \n\n
+        Your programme for the day will be tailor made according to your interests but would usually include working on 3 to 4 different fauna and flora projects.
+        \n\n
+        Lunch is provided but optional.
+        \n\n
+        Price: 1-2 persons Rs6000
+        \n\n
+        Additional person: Rs500
+        \n\n
+        Maximum in a group: 4
+        \n\n
+        Prices include lunch
+        \n\n
+        Departure time: 9 a.m-4 p.m
+        \n\n
+        Conditions: Same as Petrin
+        \n\n
+        Recommendations: Walking shoes, hats, raincoat, mosquito repellent.
+        \n\n
+        <b>How to book</b>
+        \n\n
+        To avoid disappointment, please book your tour in advance by:
+        \n\n
+        • WhatsApp: 5258 81 39\n
+        • phone on  (230) 631 2396 or (230) 52 58 81 39 (mobile),\n
+        • email at  reservation@mauritian-wildlife.org \n\n
+
+        Or pop in to our visitor centre and booking office at the departures point on the mainland at Pointe Jerome, Mahebourg.
+
+    </string>
+
+    <string name="grande_montagne_nature_reserve">
+
+                Since 1996, the Mauritian Wildlife Foundation has been active in the restoration of Grande Montagne Nature Reserve with endemic seedlings produced in its nursery (located at Solitude). Grande Montagne is considered high altitude (300-350m) and is relatively wet with deep fertile soil. The restoration work has progressed well due to the high success rate of the seedlings planted.
+        Several rare plants such as Ramosmania rodriguesii, Hibiscus liliiflorus, and Eugenia rodriguesensis are being successfully conserved in this reserve.
+        Local groups such as Scouts, Rotaract, Youth clubs, and School Students are involved in this restoration work and participate in the weeding of invasive species along with the planting of endemic seedlings. Since June 2008, the MWF has restored a further 9 hectares within the reserve by removing invasive species and planting over 73,000 native and endemic plants.
+        Furthermore, this work has helped with poverty alleviation through the recruitment of labourers from nearby villages.
+        The Grande Montagne Nature Reserve is under the responsibility of the Rodrigues Regional Assembly Forestry Department. The Mauritian Wildlife works closely with the Forestry Department.
+        \n\n
+        <b>Ecotourism at Grande Montagne</b>
+        Grande Montagne Nature Reserve is open to the public from Monday to Saturday and provides an excellent opportunity to observe the results of the conservation work carried out and visit a mature endemic Rodriguan forest.
+        There are guided tours at 9.30am - 13.15pm where no booking is required. Meeting place: Grande Montagne visitors centre on the main road from Mont Lubin to Pointe Cotton. For booking a guided tour at other times of the day: tel (230) 831 4558 or (230) 5773 6625 or email grandemont@mauritian-wildlife.org
+        A guided tour can be organised to adapt to the requirements of photographers.
+    </string>
+
+    <string name="txt_flora1">
+        MAURITIUS RARE PLANTS
+        \n\n
+        Latin Name: RP
+        \n
+        Habitat: Native forest in mountainous areas, the national park, nature reserves and offshore islets
+        Facts
+        \n
+        • Luxuriant forest once covered all of Mauritius but with man’s arrival the forests were logged and cleared for construction and agriculture so now less than 2% of the native forest remains
+        \n
+                • Mauritius still retains a rich and diverse flora, with more than 670 species of flowering plants of which 315 are endemic
+        \n• Around 200 endemics are threatened and some 50 species are known from less than 10 individuals in the wild
+        \n• Many plant species are restricted to small patches of native forest in mountainous areas, the national park, nature reserves and offshore islets
+    </string>
+
+    <string name="txt_flora2">
+
+        RODRIGUE RARE PLANTS
+        \n\n
+        Habitat: Existing nature reserves\n\n
+        Facts
+        \n\n
+        • Invasive alien woody weeds dominate all forest areas on Rodrigues and, with the exception of intensively restored areas in the nature reserves, no contiguous areas of native forest exist.
+        \n• Elements of the original biodiversity remain in some forest fragments, but without restoration work these will degrade into thickets of entirely introduced vegetation of the type that covers much of the island.
+        \n• Rodrigues, with its highly endangered flora, has had an active rare plant conservation project for over two decades with the collaboration of the Forestry Service, although initially this work was modest.
+        \n• The hard work of the ecologists in the protected zone has save the Café Marron who was endangered.
+        \n• The MWF has been able to propagate 2 endemic species extremely rare present in the nursery of Solitude who are the Bois de pipe(Dombeya Rodriguesiana) and the Bois papaye(Badula balfouriana)
+    </string>
+
+    <string name="txt_fauna1">
+
+        ECHO PARAKEET \n\n
+        Latin Name: Psittacula eques
+        \n\nHabitat: Black River Gorges National Park
+        \n\nCurrent Population Estimate: Over 700
+        \n\nFacts
+        \n\n
+        • The sole survivor of six parrot species once found in the Mascarenes.
+        \n• Known in French as Grosse Câteau Vert.
+        \n• The male has got a upper red bill and black lower bill whereas the female is full black bill.
+        \n• Easily confused with the introduced Indian Ring-necked Parakeet, but is much less common (being found in the Black River Gorges National Park and a few in Vallée de l\'Est), has a lower pitched call, shorter tail and darker green feathers.
+        \n• Approximately 36cm in length
+        \n• Their diet consists of flowers, leaves and fruit of primarily native, but also includes exotic plants.
+        \n• Are secondary cavity nesters, naturally nesting in cavities in emergent endemic trees.
+        \n• Multiple nest box designs were trialled since the 1970s and was accepted in 2001.
+        \n• Our Echo Parakeet project is the world’s most successful parrot recovery programme.
+                \n\n
+        Breeding Season
+        \n• The Echo Parakeets breed from September until march. They produce 1 to 4 eggs for each clutches. They can lay a maximum of two clutches per breeding season . After they fledged (between 55 to 70 days old), the chick will remain dependent of its mother for 2 or 3 months only.
+        \n• Feeding Habits
+        \n• Echo Parakeets feed from native trees, eat buds, bark and especially fruits.
+
+    </string>
+
+    <string name="txt_fauna2">
+
+        Pink Pigeon\n\n
+        Latin Name: Nesoenas mayeri
+        \n\nHabitat: Mauritius
+        \n\nCurrent Population Estimate: Around 450
+        \n\nFacts
+
+        \n• A distinctive medium-sized pigeon with a pale pink body, brown wings and a broad rusty-brown tail
+        \n• They form long-term pairs and are capable of breeding at any time of year
+        \n• Their diet consists of flowers, leaves and fruit of native and exotic trees
+        \n• Known in French as Pigeon des Mares and Pigeon Rose approximately 36cm in length
+
+         \n\n
+        Breeding Season
+        \n• Pink Pigeons breed between the month of August and September. The males court the female in a " step and bow" display. However Pink Pigeons usually mate for life and usually lays only 2 clutches and have a two weeks incubation.
+        \n• Feeding Habits
+        \n• Pink Pigeons are herbivorous. They feed from native plants, seeds and buds. As the natural habitats of Pink Pigeons has been degraded, natural food sources have been insufficient  to sustain the wild population or allow the successful breeding and rearing of chicks.
+    </string>
+
+    <string name="txt_fauna3">
+        MAURITIUS KESTREL
+        \n\nLatin Name: Falco punctatus
+        \n\nHabitat: Black River Gorges National Park and Bambous Mountains
+        \n\nCurrent Population Estimate: Around 400
+        \n\nFacts
+
+        \n• A medium-sized kestrel, easily identified by its creamy white chest with dark  markings, and the chestnut brown head, neck and wing feathers also with black markings
+        \n• The only bird of prey remaining in Mauritius
+        \n• Females are usually slightly bigger than males
+        \n• Their diet consists of geckos, agamid lizards, shrews, insects and small birds
+        \n• Known in French as Crécerelle de Maurice and in créole as Mangeur de poule
+        \n• Approximately 20-26cm in length with a wingspan of about 45cm
+
+
+        \n\nBreeding Season
+        \n• Mauritius Kestrel are monogamous birds throughout the process of breeding. They breed during the month of November and December and they can have up to five eggs at a time. Incubation takes between 38 and 39 days and the chicks stays in their natal territory up to the next breeding season.
+        \n• Feeding Habits
+        \n• Mauritius Kestrel are known for its carnivorous feeding habits. They prey by flying through the forest and catch their preys or chasing preys from the ground. Mauritius Kestrels feed on lizards, small birds and insects.
+    </string>
+
+    <string name="txt_fauna4">
+        Testing
+    </string>
+
+    <string name="txt_fauna5">
+        ORNATE DAY GECKO
+        \n\nLatin Name: Phelsuma ornata
+        \n\nHabitat: Coastal and lowland Mauritius, except the central south coast. Also found on Round Island, Flat Island, Gabriel Island, Gunners Quoin, Ile d’Ambre, Ile de l’Est, Ile aux Cerfs, Ile aux Singes, Ile aux Aigrettes, Ile des Deux Cocos, Ilot Fourneau and
+        \n\nCurrent Population Estimate: Unknown
+        \n\nFacts
+
+        \n• A medium sized gecko; average 10cm total length.
+        \n• Colouration greenish-brown to bluish/turquoise-green with a row of paired red spots along the back bordered by longitudinal red lines or a row of spots.
+        \n• The head is marked with a distinctive red “T” shape of various widths, which runs from between to in front of the eyes.
+        \n• Males are larger than females.
+        \n• Prefers mature native coastal/lowland vegetation, particularly Pandanus (vacoas) and palms, but can also be found in open rocky habitats and on buildings in coastal urban areas.
+        \n• They are predominantly diurnal, although can also be found foraging at night, particularly around electric light sources.
+
+
+        \n\nBreeding Season
+        \n• July to April
+
+        \n\nFeeding Habits
+        \n• They feed mostly upon invertebrates, but will also consume fruit, nectar, tree resin and other smaller geckos.
+
+    </string>
+
+    <string name="txt_fauna6">
+
+        Telfair’s skink
+        \n\nLatin Name: Leiolopisma telfairii
+        \n\nHabitat: Round Island, Gunners Quoin and Ile aux Aigrettes
+        \n\nCurrent Population Estimate: 56 202
+
+        \n\nFacts
+        \n• A large sized skink; average 31cm total length.
+        \n• Colouration is light greyish-brown to light brown and bronze, often with an iridescent bluish-green sheen.
+        \n• The back is often covered in light to dark brown speckles and clusters of scales bordered with white flecks forming disrupted lines that run from the neck to the pelvis.
+        \n• Males are larger than females.
+        \n• A terrestrial lizard with long slender clawed toes adept for climbing rocky substrates.
+        \n• They are predominantly diurnal, but will hunt on moonlit nights.
+        \n• They are found in a variety of habitats, although preference for a location is probably more related to food availability and a lack of predators rather than habitat quality.
+
+        \n\nBreeding Season
+        In the wild mating occurs primarily between August and December, with females digging or using seabird or crab burrows in the soil to deposit between 5 and 20 (mean 12.6) eggs of which 95% survive to hatch 58 to 67 (mean 62) days later from the end of December through to April
+
+        \n\nFeeding Habits
+        They feed mostly upon invertebrates and fruits, but will also feed upon nectar, predate other reptiles, scavenge carcasses and bird and reptile eggs, and are occasionally cannibalistic.
+
+    </string>
+
+    <string name="txt_islet1">
+
+        ILE COCOS
+
+        \n\nFacts
+        \n• MWF has also worked to improve the eco-tourism potential of Ile Cocos as it is a main tourist attraction in the Rodrigues.
+        \n• A 47-page Field Guide of the Flora and Fauna of Ile Cocos has been produced, five educational signboards have been placed on the islet, and a new viewing pathway has been created to allow visitors to approach the seabirds without disturbing.them.
+        \n• MWF works closely with the Rodrigues Forestry Department and Discovery Rodrigues for all project work on these islets.
+
+    </string>
+
+    <string name="txt_islet2">
+        ILE DE LA PASSE
+
+        \n\nFacts
+        \n• Ile de la Passe is a 2.4 ha Island located in the Grand Port Lagoon in the southeast of Mauritius. It is on the edge of the reef at the entrance to the main pass that leads into the Lagoon. It is of extreme historical importance both locally and internationally and may warrant the status of UNESCO’s World Heritage Site, because of its history, existing fortifications and scenic beauty.
+        [www.mauritius.metu.edu.tr/mahbay/ipass/pdffiles/2010IPreportall.pdf].
+        \n• The islet formerly held a lowland dry coastal ecosystem, supporting an assemblage of native/endemic seabirds, landbirds, reptiles, invertebrates and native plants similar to that on Ile aux Aigrettes.
+
+    </string>
+
+    <string name="txt_islet3">
+
+        ILE AUX AIGRETTES
+
+        \n\nFacts
+        \n• Located in Mahébourg Bay, about 800m off the southeast coast of Mauritius
+        \n• This small (26 hectare) island is composed of coralline limestone, partially overlain with sand and humus deposits, the remains of an eroded dune exposed after a drop in sea level some 10,000 years ago
+        \n• The last refuge of the dry coastal forest, an ecosystem once common around much of coastal Mauritius
+        \n• MWF initiated a habitat restoration project here in 1985, taking over full management of the island in 1987
+        \n• Since 1998 members of the public have been able to visit the island on a guided tour, to see the restored habitat
+
+    </string>
+    <string name="how_to_help1">HOW TO HELP</string>
+    <string name="grandbaieShop">SUPER U GRAND BAIE KIOSK</string>
+    <string name="shopAddress1">ADDRESS\n\nSuper U Grand Bay La Salette Road, Grand Bay, Mauritius</string>
+    <string name="view_brochure">View Brochure</string>
+    <string name="ile_aux_aigrettes_shop">ILE AUX AIGRETTES VISITORS\' SHOP</string>
+    <string name="shopAddress2">ADDRESS\n\nIle Aux Aigrettes</string>
+    <string name="mwf_head_office">MWF HEAD OFFICE</string>
+    <string name="shopAddress3">ADDRESS\n\nMauritian Wildlife Foundation Grannum Road Vacoas Mauritius</string>
+
+
+</resources>
